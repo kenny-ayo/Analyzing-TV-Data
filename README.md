@@ -1,3 +1,4 @@
 # Analyzing-TV-Data
-This is a case study project was gotten from Datacamp python projects. After completing intermiediat python course i decided to try my hands on the project.
+This case study project was obtained from Datacamp's Python projects. After completing the intermediate Python course, I decided to test my skills on this project.
+
 
